@@ -1,0 +1,27 @@
+const frases = [
+    '"Por si alguna vez haces la tontería de olvidar: nunca estoy pensando en ti."',
+    '"Mis ojos nunca supieron guardarme todo el amor que siento por ti."',
+    '“Sólo con el corazón se puede ver bien; lo esencial es invisible a los ojos.”',
+    '"Te amo porque el universo entero conspiró para ayudarme a encontrarte."',
+    '“No hay nada que se pueda hacer, cuando algo nos falta, debemos llenar ese vacío. Aunque cuando es el amor lo que nos falta, no hay nada que lo llene de verdad”.',
+    '“Sé que voy a quererte sin preguntas, sé que vas a quererme sin respuestas”.',
+    '"El amor sólo descansa cuando muere. Un amor vivo es un amor en conflicto”.',
+    '“En el amor, el dolor es proporcional a la belleza de la historia que has vivido".',
+    '"Todo es amor. Con el amor llega la comprensión. Con la comprensión llega la paciencia. Y entonces el tiempo se detiene. Y todo es ahora".',
+    '“El amor no mira con los ojos, sino con el alma”.',
+    '"Tú y yo, es como si nos hubieran enseñado a besarnos en el cielo y nos hubieran enviado juntos a la tierra, para ver si sabemos lo que nos enseñaron".',
+    '“Conservar algo que me ayude a recordarte seria admitir que te puedo olvidar”.',
+    '“Es al separarse cuando se siente y comprende la fuerza con que se ama”.',
+    '"Nadie se baña dos veces en un río, por qué cuando vuelves agua nueva a llegado".',
+    '"Los genios están malditos, Beethoven quedó sordo, Van Gogh perdió su oreja y a mí me duele la cabeza".',
+    '"Es como la paloma que no conocerá el mar, por qué le gusta la estúpida y horrible montaña".',
+    '“Sea lo que sea de lo que estén hechas nuestras almas, la tuya y la mía están hechas de lo mismo”.',
+    '"Mi amor y mis deseos no han variado; pero una palabra suya me hará callar para siempre".',
+    '“A mí me bastaría con estar seguro de que tú y yo existimos en este momento".',
+    '“No amas a alguien porque sea perfecto, lo amas a pesar de que no lo sea”.',
+    '"Crecí volando y vole tan deprisa, que hasta mi propia sombra de vista me perdió".',
+    '"Los monstruos son reales, y los fantasmas también, viven dentro de nosotros y, a veces ellos ganan".',
+    '“Y te elegiría a ti; en cien vidas, en cien mundos, en cualquier versión de la realidad, te encontraría y te elegiría”.',
+];
+
+window.frases = frases;
